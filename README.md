@@ -56,16 +56,25 @@ An English-Vietnamese dictionary project based on 2 basic data structures: AVL t
 ### Usages
 + For _help_, press "?" button on caption bar
   ![alt text](https://raw.githubusercontent.com/phamtri2395/Qiktionary/master/readme_files/help_button.png "Help button")
+
+
 + Write in upper textbox & press **ENTER** to look-up for words (translate for sentences), result will appears in lower textbox
   ![alt-text](https://raw.githubusercontent.com/phamtri2395/Qiktionary/master/readme_files/translate.png "Translate")
+
+
 + Choose data structure by clicking on their name
   ![alt-text](https://raw.githubusercontent.com/phamtri2395/Qiktionary/master/readme_files/algorithm.png "Change algorithm")
+
+
 + _Status_ bar warns you about dictionary loading progress:
   ![alt-text](https://raw.githubusercontent.com/phamtri2395/Qiktionary/master/readme_files/status.png "Status bar")
+
+
   _"READY"_:   means all words was loaded into memory & ready for usage
   _"Loading"_: means just some words was loaded & the others will **not available**
 + Which word can't be found in dictionary will be shown as _"null"_
   ![alt-text](https://raw.githubusercontent.com/phamtri2395/Qiktionary/master/readme_files/null.png "If can't find word")
+
 
 ### Credits
 A thank to our teacher Ho Thi Thanh Tuyen, who always pushs our limit and teachs us devotedly.
