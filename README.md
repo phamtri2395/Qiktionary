@@ -71,6 +71,7 @@ An English-Vietnamese dictionary project based on 2 basic data structures: AVL t
   ![alt-text](https://raw.githubusercontent.com/phamtri2395/Qiktionary/master/readme_files/status.png "Status bar")
 
   _"READY"_:   means all words was loaded into memory & ready for usage
+  
   _"Loading"_: means just some words was loaded & the others will **not available**
 + Which word can't be found in dictionary will be shown as _"null"_
 
